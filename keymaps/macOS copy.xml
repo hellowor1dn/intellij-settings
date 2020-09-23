@@ -14,6 +14,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl meta alt n" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
