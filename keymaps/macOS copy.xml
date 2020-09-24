@@ -8,6 +8,9 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="GotoTest" />
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
