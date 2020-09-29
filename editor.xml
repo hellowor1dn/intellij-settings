@@ -8,4 +8,7 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="FuraCode Nerd Font" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
 </application>
