@@ -862,6 +862,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ron">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jonahhenriksson.ron" />
+              <option name="myPluginName" value="RON" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.rs">
           <value>
             <plugin>
