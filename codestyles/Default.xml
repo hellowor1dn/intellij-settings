@@ -56,6 +56,9 @@
       <rule entity="GLOBAL_VARIABLE,LOCAL_VARIABLE" visibility="ANY" specifier="CONST" prefix="k" style="PASCAL_CASE" suffix="" />
     </rules>
   </Objective-C-extensions>
+  <RsCodeStyleSettings>
+    <option name="SPACE_AROUND_ASSOC_TYPE_BINDING" value="true" />
+  </RsCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="2" />
