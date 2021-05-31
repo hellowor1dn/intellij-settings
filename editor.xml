@@ -1,12 +1,15 @@
 <application>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="FuraCode Nerd Font" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
@@ -14,5 +17,13 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
+  </component>
+  <component name="OCCodeFoldingSettings">
+    <option name="collapseConditionallyNotCompiled" value="false" />
+    <option name="collapseNewLineBeforeLBrace" value="false" />
+    <option name="collapseTemplateParamList" value="false" />
+    <option name="COLLAPSE_TEMPLATE_PARAM_LIST" value="false" />
+    <option name="COLLAPSE_CONDITIONALLY_NOT_COMPILED" value="false" />
+    <option name="COLLAPSE_NEW_LINE_BEFORE_LBRACE" value="false" />
   </component>
 </application>
